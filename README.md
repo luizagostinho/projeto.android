@@ -14,7 +14,7 @@ Veja o projeto em funcionamento neste link: https://luizagostinho.github.io/proj
 ##  Tecnologias Utilizadas  
 - **HTML** — estrutura das páginas  
 - **CSS** — estilos e layout
-- 
+   
 ---
 
 ##  Como Executar Localmente  
